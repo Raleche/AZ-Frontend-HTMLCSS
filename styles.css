@@ -1,0 +1,17 @@
+.heading1 {
+    background-color: #ffffff;
+}
+
+ul {
+    margin-inline: 1px solid;
+    padding: 10px;
+}
+
+a {
+    color: blue;
+    font-weight: bold;
+}
+
+a:hover {
+    color: #fff888;
+}
